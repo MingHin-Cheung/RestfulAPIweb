@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|c:\\users\\mingh\\source\\repos\\todoapi\\todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{65729937-EDE7-46A9-872D-D69BDFB45ED2}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\todoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TodoApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TodoApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T11:43:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TodoApi\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TodoApi\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAqwHwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T11:42:52.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TodoApi\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TodoApi\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T11:42:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "TodoApi\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\wwwroot\\index.html",
+              "RelativeToolTip": "TodoApi\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-03-11T11:41:31.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoApi",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.csproj",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+              "RelativeToolTip": "TodoApi\\TodoApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-11T11:37:29.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:02:30.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:58:50.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoApi.http",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeDocumentMoniker": "TodoApi\\TodoApi.http",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\TodoApi.http",
+              "RelativeToolTip": "TodoApi\\TodoApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-11T10:58:49.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:58:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Mingh\\source\\repos\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T10:57:03.884Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
